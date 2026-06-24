@@ -1,0 +1,14 @@
+Arquivo,Classe,Conjunto
+teceiroteste_helicenormal.xlsx,normal,treino
+primeiroteste_helicenormal.xlsx,normal,teste
+segundoteste_helicenormal.xlsx,normal,teste
+terceiro_helicedesbalanceada.xlsx,helice_desbalanceada,treino
+primeiro_helicedesbalanceada.xlsx,helice_desbalanceada,teste
+segundo_helicedesbalanceada.xlsx,helice_desbalanceada,teste
+helice_quebrada_4.xlsx,helice_quebrada,treino
+helice_quebrada_1(dados_quebrados).xlsx,helice_quebrada,treino
+helicequebrada_5.xlsx,helice_quebrada,treino
+helice_quebrada_2.xlsx,helice_quebrada,teste
+helicequebrada_6.xlsx,helice_quebrada,teste
+rotacao_invertida_4.xlsx,rotacao_invertida,treino
+rotacao_invertida_5.xlsx,rotacao_invertida,teste

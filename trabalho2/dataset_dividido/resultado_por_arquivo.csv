@@ -1,0 +1,8 @@
+Arquivo,Classe_real,Classe_prevista,Acertou
+primeiroteste_helicenormal.xlsx,normal,helice_quebrada,False
+segundoteste_helicenormal.xlsx,normal,helice_quebrada,False
+primeiro_helicedesbalanceada.xlsx,helice_desbalanceada,helice_desbalanceada,True
+segundo_helicedesbalanceada.xlsx,helice_desbalanceada,helice_desbalanceada,True
+helice_quebrada_2.xlsx,helice_quebrada,helice_desbalanceada,False
+helicequebrada_6.xlsx,helice_quebrada,helice_quebrada,True
+rotacao_invertida_5.xlsx,rotacao_invertida,rotacao_invertida,True
